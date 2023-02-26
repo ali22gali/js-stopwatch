@@ -1,0 +1,26 @@
+div.stopwatch{
+    background-color: chartreuse;
+    width: 40%;
+    margin: auto; border-radius: 10px;
+}
+.stopwatchHeading{
+    padding: 60px 0 20px;
+    text-align: center;
+}
+.time{
+    padding: 20px 0 30px;
+    text-align: center;
+}
+.stopwatch-btn{
+    height: 30px;
+    width: 60px;
+    background-color: transparent;
+    border: black solid 2px ;
+    border-radius: 5px;
+    margin: 0 30px;
+}
+.btn-div{
+    padding-bottom: 30px;
+    text-align: center;
+
+}
